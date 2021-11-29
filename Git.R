@@ -1,2 +1,5 @@
-x <- rnorm(1000)
+
+x <- rnorm(100)
+y <- rnorm(100)
+
 
